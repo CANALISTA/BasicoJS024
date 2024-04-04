@@ -1,0 +1,45 @@
+http://serverlessrepo.aws.amazon.com/
+
+https://aws.amazon.com/es/education/awseducate/
+
+https://www.atlassian.com/es/git/tutorials/setting-up-a-repository/git-clone
+
+sonarqube
+
+https://www.npmjs.com/search?q=keywords:deprecated
+
+keywords:deprecated - npm search
+www.npmjs.com
+
+https://nodejs.org/dist/latest-v14.x/docs/api/esm.html
+
+
+
+
+ 
+·  Pruebas de integración: https://www.guru99.com/postman-tutorial.html
+·  Principios SOLID: https://enmilocalfunciona.io/principios-solid/
+·  Clean Architecture: https://yuriktech.com/2019/06/11/Implementing-Clean-Architecture/
+ 
+
+
+https://www.serverless.com/framework/docs/providers/aws
+Serverless - AWS Documentation
+property=
+www.serverless.com
+
+https://app.serverless.com/
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions
+
+Funciones - JavaScript | MDN
+Las funciones son uno de los bloques de construcción fundamentales en JavaScript. Una función en JavaScript es similar a un procedimiento — un conjunto de instrucciones que realiza una tarea o calcula un valor, pero para que un procedimiento califique como función, debe tomar alguna entrada y devolver una salida donde hay alguna relación obvia entre la entrada y la salida.
+developer.mozilla.org
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Working_with_Objects
+
+
+https://programmerclick.com/article/62051073928/
+git clone | Atlassian Git Tutorial
+Aquí examinaremos el comando git clone en profundidad.git clone es una utilidad de línea de comandos de Git que se utiliza para fijar como objetivo un repositorio existente con el fin de clonarlo o copiarlo. En esta página, analizaremos las amplias opciones de configuración y los casos de uso comunes de git clone.Algunos puntos que trataremos aquí son los siguientes:
+www.atlassian.com
