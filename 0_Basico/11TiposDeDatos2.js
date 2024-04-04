@@ -12,12 +12,12 @@ console.log(tama);
 
 for (var i = 0; i < tama; i++) {
   console.log(
-    "En la posicion " + i + " contiene el elemento" + autos[i].toString()
+    "En la posicion " + i + " contiene el elemento" + autos[i].toStrg()
   );
 }
 
 //Los arreglos dentro JS son tipos Objetos
-//para evitar que se tenga el tipo undefined dentro de las variables, podemos utilizar ''
+//para evitar que se tenga el tipo undefed dentro de las variables, podemos utilizar ''
 var z = "";
 console.log(typeof z + " Con el valor de " + z);
 console.log(z);
@@ -38,7 +38,7 @@ console.log(x + " : " + typeof x);
 console.log(nombre + x);
 
 //Si queremos que lo conctanene dentro de la suma
-//Si queremos que nos concatene un string y luego opere el resultado
+//Si queremos que nos concatene un strg y luego opere el resultado
 //debemos de añadir el valor dentro de ()
 var operacion = nombre + apellido + " " + ((x + 1) * 50) / 3;
 console.log(operacion);
@@ -66,7 +66,7 @@ console.log(persona.nombre + " " + persona.apellido);
 var arreglo = ["Ana de armas", "Yuvana Montalvo", "Paola Rivera"];
 let tarrego = arreglo.length;
 for (var i = 0; i < tarrego; i++) {
-  console.log("Contiene en la posicion " + i + ": " + arreglo[i].toString());
+  console.log("Contiene en la posicion " + i + ": " + arreglo[i].toStrg());
 }
 
 var arregloPersona = [persona1, persona2];
@@ -81,7 +81,7 @@ console.log(tamAP);
 /*
 for (var i = 0; i < tamAP; i++) {
     console.log(i);
-    npaso = arregloPersona[0][1].toString();
+    npaso = arregloPersona[0][1].toStrg();
     console.log(npaso);
     for (var ii = 0; ii < arregloPersona[i].length; ii++) {
       
@@ -91,10 +91,10 @@ for (var i = 0; i < tamAP; i++) {
 */
 
 //Podemos escribir tipicamente lo siguiente para recorrer los arrays
-for (tamAP in arregloPersona) {
+for (tamAP  arregloPersona) {
   console.log(arregloPersona[tamAP]);
 }
 
-for (persona2.length in persona2) {
-  console.log(persona2[persona2.length].toString());
+for (persona2.length  persona2) {
+  console.log(persona2[persona2.length].toStrg());
 }

@@ -19,7 +19,9 @@ console.log("Array persona " + tamAP);
 for (tamP1 in persona1) {
   console.log("in -> " + persona1[tamP1].toString());
 }
-
+for( var i= 0; i<3; i++){
+  arregloPersona[i]
+}
 //console.log("sss " + persona1[1].nombre.toString());
 
 for (var ls = 0; ls < tamP1; ls++) {
